@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chantal1umutoni
+- 👋 Hi, I’m Chantal UMUTONI
 - 👀 I’m interested in Mathematical Sciences
 - 🌱 I’m currently learning Python to apply mathematical skills I have got so far
 - 💞️ I’m looking to collaborate on with you for improvement
