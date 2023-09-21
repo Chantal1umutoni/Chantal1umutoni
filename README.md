@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Chantal UMUTONI
+- 👋 Hello, I’m Chantal UMUTONI
 - 👀 I’m interested in Mathematical Sciences and applied statistics
-- 🌱 I'm currently doing a Post-AIMS student program where I act as a field assistant under a research project "Kigali city Noise and Air pollution Monitoring Campaign".
-- I’m currently learning Python to apply mathematical skills I have got so far!
+- 🌱 I'm currently doing a PhD program in Applied Mathematics and Computational Sciences where I will be working in a field of Climate and Health".
 - 💞️ I’m looking to collaborate on with you for career improvement 
 - 📫 How to reach me email: chantal.umutoni@aims.ac.rw
 
